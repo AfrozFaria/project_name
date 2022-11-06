@@ -1,0 +1,2 @@
+Create files e.g php, html,css etc. I am creating txt file and will be uploading it
+Make sure before uploading the files on GitHub you must checkout on your own branch!
